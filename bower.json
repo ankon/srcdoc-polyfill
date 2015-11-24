@@ -1,7 +1,7 @@
 {
   "name": "srcdoc-polyfill",
   "main": "srcdoc-polyfill.js",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/jugglinmike/srcdoc-polyfill",
   "authors": [
     "Mike Pennisi <mike@mikepennisi.com>"
